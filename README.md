@@ -1,1 +1,1 @@
-# configure-python3-openshift
+# configure-python-setuptools
