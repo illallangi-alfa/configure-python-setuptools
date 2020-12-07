@@ -1,5 +1,8 @@
 ---
 dependencies:
+  - src: "https://git@github.com/illallangi-alfa/configure-python.git"
+    scm: git
+    version: master
   - src: "https://git@github.com/illallangi-alfa/install-python-setuptools.git"
     scm: git
     version: master
